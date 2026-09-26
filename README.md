@@ -39,11 +39,11 @@ src/
 - `InsufficientBalanceException` — handles withdrawals that violate the minimum balance requirement.
 
 ## How to Run
-# Compile the Java files
+### Compile the Java files
 javac bank/*.java
 
-# Run the program
+### Run the program
 java bank.Main
 
-# Status
+### Status
 Completed and tested.
