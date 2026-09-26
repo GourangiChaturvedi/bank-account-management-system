@@ -40,10 +40,14 @@ src/
 
 ## How to Run
 ### Compile the Java files
+```bash
 javac bank/*.java
+```
 
 ### Run the program
+```bash
 java bank.Main
+```
 
-### Status
+## Status
 Completed and tested.
