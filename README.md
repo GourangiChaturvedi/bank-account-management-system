@@ -33,15 +33,15 @@ src/
     ├── InsufficientBalanceException.java
     └── Main.java
 
-## Exception
--InvalidAmountException — handles zero or negative transaction amounts.
--InsufficientBalanceException — handles withdrawals that violate the minimum balance requirement.
+Exceptions
+- InvalidAmountException — handles zero or negative transaction amounts.
+- InsufficientBalanceException — handles withdrawals that violate the minimum balance requirement.
+How to Run
+Compile the Java files
+javac bank/*.java
 
-## How to run
--Compile the Java files:
- javac bank/*.java
--Run the program:
- java bank.Main
+Run the program
+java bank.Main
 
-## Status
--Completed and tested
+Status
+Completed and tested.
