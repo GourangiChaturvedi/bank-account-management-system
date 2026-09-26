@@ -41,7 +41,7 @@ src/
 ## How to Run
 ### Compile the Java files
 ```bash
-javac bank/*.java
+javac bank\*.java
 ```
 
 ### Run the program
